@@ -1,0 +1,1 @@
+rm -rf bin build compile_commands.json lib
